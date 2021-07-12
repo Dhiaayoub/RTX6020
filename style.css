@@ -1,0 +1,271 @@
+.doc{
+    margin-top: 20px;
+    margin-right:700px;
+}
+
+body{
+    font-family: Work Sans,Arial,sans-serif;
+}
+ul {
+    list-style-type: none;
+   
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(66, 214, 165);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: rgb(252, 252, 252);
+  }
+  .dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {background-color: #f1f1f1}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  .dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+  }
+  .fx{
+      display: flex;
+      justify-content: space-around;
+     
+  }
+  .image{
+      display: flex;
+      justify-content: center;
+  }
+.img1{
+    width: 40px;
+    height: 40px;
+    margin-right: 5px;
+}
+.nn {
+    color: rgb(66, 214, 165);
+    display: flex;
+    justify-content: center;
+    font-size: 2.125rem;
+    font-family: Roboto,Arial,sans-serif;
+}
+.bvb {
+    color:#747474; 
+    display: flex;
+    justify-content: center;
+    padding-left: 100px;
+    padding-right: 200px;
+}
+.col2{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    margin-left: 50px;
+    display: flex;
+    justify-content: center;
+}
+.box1{
+    background-color:#00b39b ;
+        height: 308px;
+    border-radius: 22px;
+    width: 23%;
+    color: rgb(255, 250, 250);
+}
+
+.first{
+    color: rgb(255, 253, 253);
+}
+.second{
+    background-color: #3d83df;
+    color:white;
+    height: 308px;
+    border-radius: 22px;
+    width: 23%;
+}
+
+.third{
+    background-color: #1b2734;
+    color: white;
+    height: 308px;
+    border-radius: 22px;
+    width: 23%;
+}
+.row{
+    display: flex;
+    justify-content: space-evenly;
+    font-family: Roboto,Arial,sans-serif;
+    border-radius: 10px;
+}
+.h{
+    font-family: Work Sans,Arial,sans-serif;
+    color: #4c9191;
+    margin-left: 150px;
+
+}
+.fg{
+    padding: 5px;
+}
+select{
+    background-color: transparent;
+    border: 0 transparent;
+    border-style: none!important;
+    border-radius: 0;
+    color: rgb(255, 250, 250);
+}
+.ll{
+    height: 150px;
+    width: 150px;
+    margin-left: 50px;
+    margin-top: 5px;
+}
+.nb{
+    height: 90px;
+    width: 200px;
+    margin-left: 50px;
+    padding: 25px;
+    margin-top: 5px;
+}
+.hfg{
+    height: 200px;
+    width: 250px;
+    margin-left: 20px;
+    padding: 25px;
+    margin-top: 0px;
+}
+.cv{
+    padding: 5px;
+}
+.mp{
+    padding: 5px;
+}
+.ssd{
+    margin-left: 50px;
+}
+.xc{
+    margin-left: 50px;
+}
+.jj{
+    color: #00b39b;
+    font-family: Work Sans,Arial,sans-serif;
+    margin-left: 150px; 
+}
+.pp{
+    font-family: Work Sans,Arial,sans-serif;
+    margin-left: 150px;
+    color:#747474; 
+}
+.tr{
+    font-family: Work Sans,Arial,sans-serif;
+    display: flex;
+    justify-content: center;
+    color: #00b39b;
+}
+
+.ool{
+    color:#747474; 
+ padding-left: 150px;
+ padding-right: 150px ;
+}
+
+.f1{
+    display: flex;
+   justify-content: space-around;
+    flex-wrap: wrap;
+}
+.aq{
+    margin-left: 150px;
+    margin-top: 100px;
+    border-radius: 10px;
+    height: 300px;
+    width: 300px;
+}
+.xi{
+    background-color: #a9fff4;
+  
+}
+.klm{
+    background-color: white;
+}
+.mmm{
+    background-color: blue;
+    border-radius: 10px;
+}
+.con{
+    display: flex;
+    flex-direction: column;
+}
+.iol{
+    display: flex;
+    justify-content: center;  
+    font-family: Work Sans,Arial,sans-serif;
+}
+.lol{
+display: flex;
+justify-content: center;
+padding: 20px;
+}
+.dv{
+    background-color: white;
+    margin-left: 1050px;
+    font-family: Roboto,Arial,sans-serif;
+    color: #747474; 
+}
+.btn{
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+}
+.img{
+    border-radius: 10px;
+}
+.ikk{
+    color: rgb(8, 8, 8);
+}
+
+.gauche{
+    display: flex;
+    justify-content: end;
+    /* margin-bottom: -4px; */
+    margin-top: -493px;
+    flex-wrap: wrap;
+}
